@@ -1,3 +1,2 @@
 #!/bin/bash
-ln -s hello_hello
-echo -e '#!/bin/bash\nchown -h vincent:staff_hello'> _hello 
+chown -h vincent:staff_hello\ 
