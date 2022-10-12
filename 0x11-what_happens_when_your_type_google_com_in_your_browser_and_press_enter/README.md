@@ -1,1 +1,1 @@
-# This is 0x12-web_stack_debugging_2 project.
+# This is 0x11. What happens when you type google.com in your browser and press Enter project.
